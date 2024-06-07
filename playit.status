@@ -1,46 +1,1467 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717733292396 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717733396187 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733295439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733399241 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733298506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733402368 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733301554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733405421 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733304593 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733408455 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733307627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733411494 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717733310660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717733414566 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733417615 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733420663 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733423706 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733426739 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733429772 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733432806 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733435873 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733438916 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733441952 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733444998 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733448030 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733451072 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733454145 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733457217 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733460254 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733463319 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733466371 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733469511 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733472567 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733475604 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733478644 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733481728 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733484778 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733487809 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733490839 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733493883 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733496919 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733499949 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733503008 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733506075 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733509125 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733512166 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733515205 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733518238 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733521268 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733524304 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733527375 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733530427 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733533458 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733536492 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733539539 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733542601 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733545641 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733548673 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733551725 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733554792 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733557823 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733560862 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733563904 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733566947 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733569978 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733573024 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733576078 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733579132 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733582244 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733585288 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733588320 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733591352 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733594399 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733597439 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733600472 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733603515 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733606554 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733609584 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733612622 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733615671 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733618744 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733621790 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733624839 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733627879 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733630919 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733633956 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733636997 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733640033 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733643079 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733646156 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733649210 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733652261 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733655316 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733658348 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733661389 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733664424 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733667466 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733670532 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733673584 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733676668 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733679710 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733682745 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733685795 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733688853 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733691934 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733694982 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733698032 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733701092 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733704136 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733707193 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733710237 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733713276 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733716327 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733719360 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733722394 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733725440 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733728476 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733731508 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733734571 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733737624 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733740711 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733743753 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733746785 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733749843 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733752893 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733755929 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733758968 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733762069 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733765116 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733768177 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733771230 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733774286 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733777329 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733780375 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733783415 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733786471 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733789576 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733792610 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733795646 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733798691 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733801748 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733804797 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733807839 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733810899 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733813957 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733817001 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733820045 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733823105 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733826152 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733829212 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733832270 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733835333 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733838365 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733841404 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733844460 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733847509 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733850550 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733853591 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733856624 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733859678 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733862715 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733865748 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733868796 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733871873 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733874909 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733877943 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733881087 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733884145 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733887184 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733890302 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733893336 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733896378 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733899416 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733902468 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733905523 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733908569 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733911604 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733914644 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733917689 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733920742 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733923785 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733926820 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733929863 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733932902 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733935947 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733938979 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733942059 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733945108 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733948140 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733951184 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733954233 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733957287 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733960334 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733963393 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733966447 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733969517 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733972581 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733975633 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733978677 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733981713 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733984755 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733987807 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733990861 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733993941 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717733997012 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734000063 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734003169 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734006215 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734009263 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734012314 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734015362 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734018417 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734021457 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734024490 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734027530 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734030565 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+shoes-hughes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+stores-parents.gl.at.ply.gg:2052 => 127.0.0.1:2052 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1717734033599 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
